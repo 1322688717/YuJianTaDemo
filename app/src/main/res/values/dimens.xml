@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="grid_expected_size">120dp</dimen>
+
+    <!--label选中下横线宽度-->
+    <dimen name="label_bottom_indicator_width">7.5dp</dimen>
+
+    <dimen name="item_space">7.5dp</dimen>
+
+    <dimen name="item_main_tab_draw_padding">-4dp</dimen>
+
+</resources>
