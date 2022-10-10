@@ -861,7 +861,7 @@
 
     <!--  隐私协议弹窗  -->
     <string name="alert_agreement_title">用户协议及隐私政策</string>
-    <string name="alert_agreement_des">感谢您信任并使用1v1Demo！\n我们非常重视您的个人信息和隐私保护，为了更好的保障您的个人权益，在您使用我们的产品前，
+    <string name="alert_agreement_des">感谢您信任并使用遇见她！\n我们非常重视您的个人信息和隐私保护，为了更好的保障您的个人权益，在您使用我们的产品前，
         请您认证阅读《用户协议》和《隐私政策》的全部内容，同意并接受全部条款后开始使用我们的产品和服务。若选择不同意，将无法使用我们的产品和服务，并会退出应用。</string>
 
 </resources>
