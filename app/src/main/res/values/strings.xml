@@ -1,5 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="app_name">1v1Demo</string>
+    <string name="app_name">遇见她</string>
 
     <!--通用-->
     <string name="rmb">元</string>

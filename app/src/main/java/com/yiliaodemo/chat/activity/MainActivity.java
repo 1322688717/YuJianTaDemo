@@ -221,12 +221,11 @@ public class MainActivity extends BaseActivity implements TIMMessageListener {
                         .withViewHolder(new MainTabViewHolder(tabPagerLayout, R.drawable.selector_navigation_live))
                         .build(),
 
-                FragmentParamBuilder.create()
-                        .withClazz(RankGroupFragment.class)
-                        .withName(getString(R.string.main_rank))
-                        .withViewHolder(new MainTabViewHolder(tabPagerLayout, R.drawable.selector_navigation_home_top))
-                        .build(),
-
+//                FragmentParamBuilder.create()
+//                        .withClazz(RankGroupFragment.class)
+//                        .withName(getString(R.string.main_rank))
+//                        .withViewHolder(new MainTabViewHolder(tabPagerLayout, R.drawable.selector_navigation_home_top))
+//                        .build(),
                 FragmentParamBuilder.create()
                         .withClazz(MessageFragment.class)
                         .withName(getString(R.string.main_message))
