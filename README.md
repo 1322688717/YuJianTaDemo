@@ -4,3 +4,10 @@
 ScrollLoginActivity  选择手机号登录或者微信登录
 PhoneLoginActivity  手机号登录
 MainActivity   主页面
+
+
+
+
+底部导航
+
+MineFragment  我的

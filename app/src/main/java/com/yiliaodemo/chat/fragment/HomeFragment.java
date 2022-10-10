@@ -395,11 +395,13 @@ public class HomeFragment extends BaseFragment {
                 builder.withClazz(FocusFragment.class);
             } else if ("6".equals(bean.t_ad_table_target)) {
                 builder.withClazz(VideoFragment.class);
-            } else if ("7".equals(bean.t_ad_table_target)) {
-                Bundle args = new Bundle();
-                args.putString("queryType", "5");
-                builder.withClazz(HomeCityFragment.class).withBundle(args);
-            } else if ("8".equals(bean.t_ad_table_target)) {
+            }
+//            else if ("7".equals(bean.t_ad_table_target)) {
+//                Bundle args = new Bundle();
+//                args.putString("queryType", "5");
+//                builder.withClazz(HomeCityFragment.class).withBundle(args);
+//            }
+            else if ("8".equals(bean.t_ad_table_target)) {
                 builder.withClazz(RandomChatFragment.class);
             } else if ("9".equals(bean.t_ad_table_target)) {
                 /*

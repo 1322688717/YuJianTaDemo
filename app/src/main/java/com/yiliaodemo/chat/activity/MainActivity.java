@@ -205,7 +205,7 @@ public class MainActivity extends BaseActivity implements TIMMessageListener {
      */
     private void initViewPager() {
 
-        TabFragmentAdapter adapter = new TabFragmentAdapter(getSupportFragmentManager(), mContentVp);
+       TabFragmentAdapter adapter = new TabFragmentAdapter(getSupportFragmentManager(), mContentVp);
 
         adapter.init(
 
@@ -239,6 +239,7 @@ public class MainActivity extends BaseActivity implements TIMMessageListener {
                         .build()
         );
 
+        //底部导航栏初始化
         tabPagerLayout.init(mContentVp);
     }
 

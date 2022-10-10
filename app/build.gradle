@@ -56,7 +56,7 @@ android {
             buildConfigField "boolean", "debug", "true"
             buildConfigField "String", "rkey", "\"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCwdmAf0sVnS15mJpY20sJUhCovS/235wDrJUdpDdODjL6URwItrqc5qPoIEL/q5zw9mvpYft0c/nljNshxlHdIvko4n0Tln3N1UVK6PvfXlKNYJCy8auDVXdO2P4exiZ4dYCVyCgTOjkqVdVQlhvedSQHPndfmAhGz8BW1QUGiVQIDAQAB\""
             buildConfigField "String", "charset", "\"UTF-8\""
-            buildConfigField "String", "socketIp", "\"\""
+            buildConfigField "String", "socketIp", "\"47.104.142.55:2048\""
             buildConfigField "String", "hostAddress", "\"http://47.104.142.55:8180/app/\""
             //signingConfig signingConfigs.release
         }
@@ -65,7 +65,7 @@ android {
             buildConfigField "String", "rkey", "\"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCwdmAf0sVnS15mJpY20sJUhCovS/235wDrJUdpDdODjL6URwItrqc5qPoIEL/q5zw9mvpYft0c/nljNshxlHdIvko4n0Tln3N1UVK6PvfXlKNYJCy8auDVXdO2P4exiZ4dYCVyCgTOjkqVdVQlhvedSQHPndfmAhGz8BW1QUGiVQIDAQAB\""
             buildConfigField "boolean", "debug", "false"
             buildConfigField "String", "charset", "\"UTF-8\""
-            buildConfigField "String", "socketIp", "\"\""
+            buildConfigField "String", "socketIp", "\"47.104.142.55:2048\""
             buildConfigField "String", "hostAddress", "\"http://47.104.142.55:8180/app/\""
             minifyEnabled true
             shrinkResources true
