@@ -181,7 +181,7 @@
                 android:layout_height="wrap_content"
                 android:paddingTop="4dp"
                 android:paddingBottom="4dp"
-                android:text="《1v1Demo视频交友协议》"
+                android:text="《遇见她视频交友协议》"
                 android:textColor="@color/main"
                 android:textSize="12sp" />
 

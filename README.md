@@ -11,3 +11,10 @@ MainActivity   主页面
 底部导航
 
 MineFragment  我的
+
+
+
+
+
+VerifyOptionActivity  申请主播
+ApplyVerifyHandActivity  申请认证手势界面
